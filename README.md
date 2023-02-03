@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Eugene Kim. I am a computer science undergraduate at Columbia University. I have previous software engineering internship experience at AWS and two NYC startups.
+
 <!--
 **e7kim/e7kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
