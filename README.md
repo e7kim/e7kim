@@ -2,6 +2,8 @@
 
 My name is Eugene Kim. I am a computer science undergraduate at Columbia University SEAS. I have previous software engineering internship experience at AWS and two NYC startups.
 
+<a href="https://www.linkedin.com/in/eugenekimcs/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <!--
 **e7kim/e7kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
